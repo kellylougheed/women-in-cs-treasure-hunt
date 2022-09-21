@@ -1,0 +1,7 @@
+Karen Spärck Jones was a Professor of Computing and Information at the University of Cambridge and a pioneer of information science. She made outstanding theoretical contributions to information retrieval and natural language processing and built upon this theoretical framework through numerous experiments. She introduced Inverse Document Frequency (IDF) term weighting, a statistical measure used to evaluate how important a word is to a document - now adopted as the standard in systems such as web search engines to score and rank a document’s relevance to a search query.
+
+Born: 26 August 1935, Huddersfield, United Kingdom
+
+Known for: Basis for Search Engine
+
+Source: https://www.works-hub.com/learn/going-back-in-time-top-20-female-computer-scientists-in-history-bdd4e

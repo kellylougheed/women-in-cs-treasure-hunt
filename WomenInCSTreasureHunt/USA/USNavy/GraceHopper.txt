@@ -1,0 +1,7 @@
+Grace Brewster Murray Hopper was an American computer scientist and United States Navy rear admiral. One of the first programmers of the Harvard Mark I computer in the 1940s, she was a pioneer of computer programming who invented a compiler that converted English language terms in programming languages to machine code. She received a master’s degree (1930) and a Ph.D. (1934) in mathematics from Yale. Hopper is best known for her trailblazing contributions to the development of computer languages.
+
+Born: 9 December 1906, New York, New York, United States 
+
+Known for: Advances in creating human-friendly programming languages
+
+Adapted from https://www.works-hub.com/learn/going-back-in-time-top-20-female-computer-scientists-in-history-bdd4e

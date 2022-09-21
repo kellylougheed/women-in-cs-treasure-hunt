@@ -1,0 +1,7 @@
+Ada Lovelace, countess of Lovelace, originally named Augusta Ada Byron, Lady Byron, was an English mathematician. Lovelace became interested in calculating machines built by Charles Babbage as early as 1833 when she was introduced to Babbage by a mutual friend. Her detailed and elaborate notes (especially her description of how the proposed Analytical Engine could be programmed to compute Bernoulli numbers) were the first suggestion of what we now know as computer algorithms. “The Analytical Engine,” she said, “weaves algebraic patterns, just as the Jacquard-loom weaves flowers and leaves.” Babbage only built a small part of the Analytical Engine, but Lovelace’s efforts have been remembered. The early programming language Ada, was named for her.
+
+Born: 10 December 1815, London, United Kingdom
+
+Known for: First Programmer
+
+Adapted from https://www.works-hub.com/learn/going-back-in-time-top-20-female-computer-scientists-in-history-bdd4e
